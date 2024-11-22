@@ -1,0 +1,2 @@
+,ztfname,File Name,Dereddened File Name,Date of spectrum,MJD of spectrum,t0,Phase of spectrum,t0_err,z,z_err,x1,x1_err,MWEBV,MWEBV_err,SN Type,SN Sub Type
+0,ZTF20acquetr,ZTF20acquetr_20201116_P60_v1.ascii,ZTF20acquetr_20201116_P60_v1_dereddened.csv,20201116,59169.0,59175.44388972,-6.443889720001607,0.1534695,0.03109934,0.0,-2.35080304,0.21425015,0.00891502,0.0,snia-pec,91bg
